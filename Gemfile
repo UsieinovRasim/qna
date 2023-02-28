@@ -72,7 +72,7 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
   gem "webdrivers"
-  gem "chromedriver-helper"
+  # gem "chromedriver-helper"
   gem "shoulda-matchers"
   gem "rails-controller-testing"
   gem "shoulda-matchers"
