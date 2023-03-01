@@ -200,8 +200,6 @@ GEM
       actionpack (>= 3.1)
       railties (>= 3.1)
       slim (>= 3.0, < 6.0, != 5.0.0)
-    shoulda-matchers (5.3.0)
-      activesupport (>= 5.2.0)
     sprockets (4.2.0)
       concurrent-ruby (~> 1.0)
       rack (>= 2.2.4, < 4)
@@ -256,7 +254,6 @@ DEPENDENCIES
   selenium-webdriver
   shoulda-matchers
   slim-rails
-  shoulda-matchers
   sprockets-rails
   stimulus-rails
   turbo-rails
